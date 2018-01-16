@@ -39,3 +39,9 @@ article img {
     width: 100%;
     max-width: 500px;
 }
+
+
+article img {
+    margin: 2px;
+    border-radius: 5px;
+}
